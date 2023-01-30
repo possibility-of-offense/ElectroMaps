@@ -1,0 +1,27 @@
+.container {
+  margin: 2rem 0;
+  text-align: left;
+}
+
+.title {
+  color: #fff;
+  font-size: 3rem;
+  font-weight: bold;
+  display: flex;
+}
+
+.skewBorder {
+  display: block;
+  height: 50px;
+  width: 10px;
+  margin-left: 1rem;
+  margin-top: 0.5rem;
+  background-color: var(--secondary-color);
+  transform: skew(-20deg);
+}
+
+.content {
+  color: #fff;
+  font-size: 1.3rem;
+  line-height: 1.2;
+}

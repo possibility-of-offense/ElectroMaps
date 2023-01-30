@@ -1,0 +1,26 @@
+.container {
+  padding: 1rem;
+  padding-bottom: 4rem;
+  border-radius: 10px;
+  background-color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+}
+
+.container img {
+  width: 80px;
+  border-radius: 50%;
+  border: 1px solid #f4f4f4;
+  margin: 0.6rem 0;
+}
+
+.container h4 {
+  color: var(--secondary-color);
+  font-size: 1.1rem;
+  margin-bottom: 10px;
+}
+
+.container p {
+  color: #fff;
+  font-size: 1.3rem;
+  line-height: 1.1;
+}

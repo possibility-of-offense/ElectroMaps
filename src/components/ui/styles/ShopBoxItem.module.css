@@ -1,0 +1,8 @@
+.imageBox {
+  display: flex;
+  justify-content: center;
+  color: inherit;
+}
+/* .image {
+  width: 100%;
+} */

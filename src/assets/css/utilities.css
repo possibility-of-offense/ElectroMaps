@@ -1,0 +1,21 @@
+.container-landscape-max {
+  width: 100%;
+  max-width: 1380px;
+  margin: 0 auto;
+}
+.container-landscape-middle {
+  width: 100%;
+  max-width: 1180px;
+  margin: 0 auto;
+}
+
+.center-flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.background-image {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
